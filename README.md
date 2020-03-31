@@ -14,4 +14,4 @@ just run the ```install.sh``` as ```sudo``` 😉
 
 ### License
 
-dog was created by [Gabriel Polastrini](https://gabrielpolastrini.com). Released under the GPL v3 license.
+dog was created by [Gabriel](https://0xxg4.now.sh). Released under the GPL v3 license.
