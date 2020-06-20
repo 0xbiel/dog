@@ -1,6 +1,6 @@
 # dog
 
-Do you know the unix ```cat``` command? Well... I like dogs... 🐶
+Do you know the unix ```cat``` command? Well... I like dogs too... 🐶
 
 ![demo](./demo.gif)
 
